@@ -6,8 +6,6 @@ permalink: /team-onboarding-and-team-setup-process/
 source-id: 1vlRrVnoYdWufuLoTlxz0o7lh_dWIbLXJBluCfV-wCVc
 published: true
 ---
-# Team Onboarding and Team Setup Process
-
 After an organization purchases their team, an EduGuide Staff member will create the team and then send an invitation to a contact with the organization asking them to create an account and begin the process of setting up their team.
 
 As the initial team admin coach completes the set up process begun by EduGuide, they will be asked to appoint a team administrator, set the auto groups feature, invite a team captain, invite coaches, and schedule training.
@@ -37,4 +35,6 @@ After you send the request, an orange checkmark will appear next to the "IT Test
 The next two screens are devoted to the process of sending invitations to the members of your staff who you would like to serve as team coaches. For more details on the responsibilities of the different coach roles [Click here].
 
 For both the Team Captain and the team coaches, you will be entering email addresses and then sending invitations. Inside the Send invitation screens that appear, you will be prompted for  custom messages and a student start date. These are both optional, but help to customize your message. After you click "send invite," the invitations will be sent to your colleagues asking them to join your team.
+
+[Google Docs](https://docs.google.com/document/d/1vlRrVnoYdWufuLoTlxz0o7lh_dWIbLXJBluCfV-wCVc/edit?usp=sharing)
 
