@@ -6,7 +6,7 @@ permalink: /test-the-freshdesk-live-chat-feature/
 source-id: 13ZD_9xWHlFpPOG6VJPnMKTMZm7GxpvBkxvljr2Rq9SQ
 published: true
 ---
-# Test the Freshdesk Live Chat Feature
+# Test the Freshdesk Live Chat Feature
 
 ## Description
 
@@ -63,4 +63,6 @@ Test under different conditions:
 ## Instructions
 
 Go to [http://staging.eduguide.org](http://staging.eduguide.org/). Depending on how your'e testing the tab, click on the link "Chat with us" inside either the main navigation towards the top of the page, or in the side menu that is shown when you are in the metrics, members, and coaches screens.
+
+[Google Docs](https://docs.google.com/document/d/13ZD_9xWHlFpPOG6VJPnMKTMZm7GxpvBkxvljr2Rq9SQ/edit?usp=sharing)
 
